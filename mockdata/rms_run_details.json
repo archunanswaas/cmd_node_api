@@ -1,0 +1,32 @@
+[
+    {
+        "Run_DateTime":"10-05-2018 07:35",
+        "Upload_File_Name":"RMSNewData.csv",
+        "Upload_File_Path":"https://localhost/cmd/assets/RMSNewData.csv",
+        "Platform_ID":"TP",
+        "Account_ID":"Astrazenica",
+        "Campaign_ID":"Xtandi",
+        "TotalNumberOfRecords":120,
+        "TotalNumberOfFoundRecords":100,
+        "TotalNumberOfNewRecords":20,
+        "Run_InitiatedBy":"Admin",
+        "Run_Status":"Completed"
+    },
+
+    {
+
+        "Run_DateTime":"10-23-2019 07:35",
+        "Upload_File_Name":"RMSNewData(1).csv",
+        "Upload_File_Path":"https://localhost/cmd/assets/RMSNewData(1).csv",
+        "Platform_ID":"Webcast",
+        "Account_ID":"Alkarmes",
+        "Campaign_ID":"Challenges",
+        "TotalNumberOfRecords":80,
+        "TotalNumberOfFoundRecords":75,
+        "TotalNumberOfNewRecords":5,
+        "Run_InitiatedBy":"Admin",
+        "Run_Status":"Completed"
+
+    }
+
+]
